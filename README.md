@@ -55,5 +55,7 @@ Technologies:
 3. Javascript
 
 
+## Screenshot of my webpage
+./assets/Logo.png
 
 

@@ -55,7 +55,7 @@ const questions = [
   },
   {
     question:
-      "True or False. In the movie Forest Gump, Forest is played by actor Tom Hanks?.",
+      "True or False. In the movie Forest Gump, Forest is played by actor Tom Hanks?",
     correctAnswer: true,
   },
   {
@@ -184,8 +184,6 @@ playAgainButton.addEventListener("click", playAgain);
 // scoreElement.textContent - display's the participant score
 // <!--graveyard
 // next button is hidden or not clickable until questions is answered
-// const category = () => {
-//categoryScreen = document.getElementById("category-screen");
 //const playButon  = () =>
 //const imageContainer = document.getElementById("image-container");
 //imageContainer.classList.remove("hidden");
