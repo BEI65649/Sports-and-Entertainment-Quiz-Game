@@ -56,7 +56,7 @@ Technologies:
 
 
 ## Screenshot of my webpage
-./assets/Logo.png
+
 <img width="579" alt="Logo" src="https://github.com/user-attachments/assets/613355fe-4745-485e-bec0-f5bbbfc2b180" />
 
 
